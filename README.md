@@ -48,6 +48,19 @@ To build a machine learning model that can accurately classify whether a patient
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repo:
+git clone https://github.com/aishh48/Disease-Risk-Prediction.git
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run notebooks:
+- data_understanding.ipynb
+- preprocessing.ipynb
+- model_building.ipynb
+
 ## 🧠 Key Insights
 - Zero values represented missing data
 - Preprocessing improved data quality
